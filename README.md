@@ -54,6 +54,7 @@ esp32-environment-monitor/
 ├── esp32-environment-monitor.ino
 ├── README.md
 └── images/
+
 ## How It Works
 
 1. The ESP32 connects to Wi-Fi.
