@@ -47,12 +47,7 @@ When an alert is triggered:
 - The buzzer pulses continuously
 - A Blynk event notification is sent using `high_temp_alert`
 
-## Project Structure
 
-    esp32-environment-monitor/
-    ├── esp32-environment-monitor.ino
-    ├── README.md
-    └── images/
 
 ## How It Works
 
@@ -99,7 +94,7 @@ When an alert is triggered:
 
 ### Mobile App Output
 
-[![MobileAPPOutput](images/MobileAppOutput.jpg)
+![MobileAPPOutput](images/MobileAppOutput.jpg)
 
 ### Hardware Setup
 
