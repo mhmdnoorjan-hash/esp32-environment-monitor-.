@@ -95,7 +95,7 @@ When an alert is triggered:
 
 ### Mobile App Output
 
-[![Mobile App Output](images/MobileApp-output.jpg)](images/MobileApp-output.jpg)
+[![MobileAPPOutput](images/MobileAppOutput.jpg)
 
 
 ### Hardware Setup
