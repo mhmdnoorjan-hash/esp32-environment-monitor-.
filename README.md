@@ -97,7 +97,6 @@ When an alert is triggered:
 
 [![MobileAPPOutput](images/MobileAppOutput.jpg)
 
-
 ### Hardware Setup
 
 ![Hardware Setup](images/hardware-setup.jpg)
