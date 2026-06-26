@@ -55,40 +55,32 @@ esp32-environment-monitor/
 ├── README.md
 └── images/
 
-## How It Works
-
-1. The ESP32 connects to Wi-Fi.
-2. The board connects to Blynk Cloud.
-3. The DHT22 sensor is read every 2 seconds.
-4. Temperature and humidity values are sent to Blynk.
-5. If a threshold is exceeded, the system activates the alert outputs and sends a notification.
-
-## Setup
-
-1. Install the required Arduino libraries:
-   - Blynk
-   - DHT sensor library
-2. Open `esp32-environment-monitor.ino` in Arduino IDE.
-3. Replace the placeholder values in the code:
-   - `YOUR_BLYNK_AUTH_TOKEN`
-   - `YOUR_WIFI_SSID`
-   - `YOUR_WIFI_PASSWORD`
-4. Create the required datastreams in Blynk:
-   - `V0` for temperature
-   - `V1` for humidity
-   - `V2` for alert state
-   - `V3` for status text
-5. Create a Blynk event with the code:
-   - `high_temp_alert`
-6. Upload the code to the ESP32.
-
-## Serial Output Example
-
-```text
+How It Works
+1.	The ESP32 connects to Wi-Fi.
+2.	The board connects to Blynk Cloud.
+3.	The DHT22 sensor is read every 2 seconds.
+4.	Temperature and humidity values are sent to Blynk.
+5.	If a threshold is exceeded, the system activates the alert outputs and sends a notification.
+Setup
+1.	Install the required Arduino libraries:
+•	Blynk
+•	DHT sensor library
+2.	Open  esp32-environment-monitor.ino  in Arduino IDE.
+3.	Replace the placeholder values in the code:
+•	 YOUR_BLYNK_AUTH_TOKEN 
+•	 YOUR_WIFI_SSID 
+•	 YOUR_WIFI_PASSWORD 
+4.	Create the required datastreams in Blynk:
+•	 V0  for temperature
+•	 V1  for humidity
+•	 V2  for alert state
+•	 V3  for status text
+5.	Create a Blynk event with the code:
+•	 high_temp_alert 
+6.	Upload the code to the ESP32.
+Serial Output Example
 Temperature: 29.4 C | Humidity: 52.1% | Status: NORMAL
 Temperature: 31.2 C | Humidity: 55.0% | Status: ALERT
-
-This project is provided for educational purposes.
 
 Notes
 •	The code includes a notification cooldown to avoid repeated alerts.
