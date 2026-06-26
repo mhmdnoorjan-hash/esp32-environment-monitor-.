@@ -87,19 +87,20 @@ Notes
 
 ### Mobile App Output
 
-![Mobile App Output](images/MobileApp-output.jpg)
+![Mobile App Output](images:MobileApp-output.jpg)
 
 ### Hardware Setup
 
-![Hardware Setup](images/hardware-setup.jpg)
+![Hardware Setup](images:hardware-setup.jpg)
 
 ### Blynk Dashboard
 
-![Blynk Dashboard](images/blynk-dashboard.jpg)
+![Blynk Dashboard](images:blynk-dashboard.jpg)
 
 ### Serial Output
 
-![Serial Output](images/serial-output.jpg)
+![Serial Output](images:serial-output.jpg)
+
 
 License
 This project is provided for educational purposes.
