@@ -93,6 +93,10 @@ When an alert is triggered:
 
 ## Screenshots
 
+## System Flowchart
+
+![System Workflow](images/system-flowchart.jpg)
+
 ### Mobile App Output
 
 [![MobileAPPOutput](images/MobileAppOutput.jpg)
