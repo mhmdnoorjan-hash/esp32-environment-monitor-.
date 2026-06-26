@@ -84,3 +84,13 @@ Notes
 •	The  .ino  file in this repository is prepared for public sharing, so Wi-Fi and Blynk credentials should stay as placeholders.
 License
 This project is provided for educational purposes.
+## Screenshots
+
+### Blynk Dashboard
+
+![Blynk Dashboard](images/blynk-dashboard.jpg)
+
+### Event Configuration
+
+![Blynk Event](images/blynk-event.jpg)
+
