@@ -100,13 +100,7 @@ When an alert is triggered:
 
 ![Hardware Setup](images/hardware-setup.jpg)
 
-### Blynk Dashboard
 
-![Blynk Dashboard](images/blynk-dashboard.jpg)
-
-### Serial Output
-
-![Serial Output](images/serial-output.jpg)
 
 ## License
 
